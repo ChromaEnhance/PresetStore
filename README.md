@@ -86,6 +86,7 @@ Users agree to indemnify and hold harmless ChromaEnhance from legal claims or ex
 
 ### 9. Jurisdiction
 These Terms are governed by the laws of **France**. Any disputes shall fall under the exclusive jurisdiction of the Courts of Paris, France.
+
 ---
 
 *PresetStore by ChromaEnhance - Elevating Post-Production.*
