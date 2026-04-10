@@ -77,6 +77,23 @@ It contains:
 
 ---
 
+## 🌐 Join the Ecosystem
+
+We are building this platform alongside the community. Join our Discord to access exclusive features, track the roadmap, and share your feedback directly with the team.
+
+* 👉 **[Official Website](https://presetstore.tech)**
+* 👉 **[Join our Discord Server](https://discord.gg/CtV8jESWJN)**
+
+---
+
+## ⚡ Quick Start
+
+1.  **Download** the `PresetStore.X.X.Installer.exe`.
+2.  **Run the installer** (it will handle the heavy lifting and host detection).
+3.  **Log in** and start elevating your workflow.
+
+---
+
 ## ⚖️ Terms of Service (ToS)
 
 By utilizing PresetStore, you agree to the following operational guidelines and legal terms, designed to protect the integrity of the platform and the work of our creators.
