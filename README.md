@@ -1,3 +1,5 @@
+![PresetStore Logo](https://raw.githubusercontent.com/ChromaEnhance/PresetStore/master/README/PSLogo.png)
+
 # PresetStore
 
 **The Premium Ecosystem for Motion Designers and Creators.**
