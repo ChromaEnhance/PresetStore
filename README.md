@@ -14,7 +14,7 @@ PresetStore, developed by ChromaEnhance, is the first centralized platform engin
 [![Download Speed](https://img.shields.io/badge/Deployment-Fast-green?style=for-the-badge)](https://github.com/ChromaEnhance/PresetStore/releases/latest)
 
 Experience the next standard of creative asset management.
-👉 **[Download the Latest PresetStore Version](https://github.com/ChromaEnhance/PresetStore/releases/latest)**
+**[Download the Latest PresetStore Version](https://github.com/ChromaEnhance/PresetStore/releases/latest)**
 
 ---
 
@@ -81,8 +81,8 @@ It contains:
 
 We are building this platform alongside the community. Join our Discord to access exclusive features, track the roadmap, and share your feedback directly with the team.
 
-* 👉 **[Official Website](https://presetstore.tech)**
-* 👉 **[Join our Discord Server](https://discord.gg/CtV8jESWJN)**
+* **[Official Website](https://presetstore.tech)**
+* **[Join our Discord Server](https://discord.gg/CtV8jESWJN)**
 
 ---
 
@@ -132,7 +132,8 @@ These Terms are governed by the laws of **France**. Any disputes shall fall unde
 
 ---
 
-**💡 Developed by [FGAMER768](https://github.com/FGAMER768), [STY1001](https://github.com/STY1001), [MarwanFr](https://github.com/MarwanFr) and [Ulysse2211](https://github.com/Ulysse2211).** **🌟 Share the app if you like it !**
+**💡 Developed by [FGAMER768](https://github.com/FGAMER768), [STY1001](https://github.com/STY1001), [MarwanFr](https://github.com/MarwanFr) and [Ulysse2211](https://github.com/Ulysse2211).** 
+**🌟 Share the app if you like it !**
 
 ---
 
