@@ -88,7 +88,7 @@ We are building this platform alongside the community. Join our Discord to acces
 
 ## ⚡ Quick Start
 
-1.  **Download** the `PresetStore.X.X.Installer.exe`.
+1.  **Download** the `PresetStore.x.x.x.Installer.exe`.
 2.  **Run the installer** (it will handle the heavy lifting and host detection).
 3.  **Log in** and start elevating your workflow.
 
